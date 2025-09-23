@@ -68,7 +68,8 @@ Two main kinds of multitasking are discussed in this section: preemptive multita
 
 > The benefits of cooperative multitasking
 > asyncio uses cooperative multitasking to achieve concurrency. When our application reaches a point where it could wait
-> a while for a result to come back, we explicitly mark this in code.
+> a while for a result to come back, we explicitly mark this in code. When an operating system needs to switch between
+> running a thread or process, it involves a context switch.
 
 ## Understanding processes, threads, multithreading, and multiprocessing
 
@@ -94,7 +95,4 @@ are more commonly known as worker or background threads. These threads can perfo
 main thread. Threads, much like processes, can run alongside one another on a multi-core CPU, and the operating system
 can also switch between them via time slicing. When we run a normal Python application, we create a process as well as a
 main thread that will be responsible for running our Python application.
-
-
- 
 
