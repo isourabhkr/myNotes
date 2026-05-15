@@ -19,4 +19,3 @@ area network. VPC networks are logically isolated from each other.
 * VPC Networks can be connected other VPC networks in different projects or Organisation using **VPC Network Peering**.
 * VPC Networks can be connected to on premise networks using or other cloud providers using **Cloud VPN** or **Cloud
   Interconnect**.
-* 

@@ -22,10 +22,10 @@ regional object, only resources in the same region can use that particular subne
 VPC networks supports subnets of following stack types. A single VPC network can contain any combination of these
 subnets
 
-![img.png](img.png)
+![VPC](/asset/images/gcp/vpc_network_support_mapping.png)
 
 Below information are required while creating a subnet:
-![img_1.png](img_1.png)
+![requirements](/asset/images/gcp/vpc_creation_requirement.png)
 
 ## Purposes of subnets
 
