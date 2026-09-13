@@ -46,3 +46,4 @@ Reference:
 * <https://www.vmware.com/topics/glossary/content/hypervisor.html>
 * <https://www.redhat.com/en/topics/containers/whats-a-linux-container#:~:text=A%20Linux%C2%AE%20container%20is,testing%2C%20and%20finally%20to%20production.>
 * <https://www.section.io/engineering-education/lxc-vs-docker-what-is-the-difference-and-why-docker-is-better/#:~:text=What%20is%20the%20major%20difference,multi%2Dpurpose%20operating%20system%20virtualization.>
+* <https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction#background>

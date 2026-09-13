@@ -12,13 +12,13 @@ Kubernetes cluster is one or more nodes providing CPU, memory, and other re-sour
 
 It supports two types of nodes:
 
-* **Control Plane Node**: Implements the K8S intelligence and every cluster needs at least once. There can be more than
+* **Control Plane Node**: Implements the K8S intelligence and every cluster needs at least one. There can be more than
   one
   control plane node.
 
 > Note:
 > * Every control plane node runs every control plane service. These include the API server, the scheduler, and the
-    > controllers that implement cloud-native features such as self-healing, autoscaling, and rollouts.
+    controllers that implement cloud-native features such as self-healing, autoscaling, and rollouts.
 > * Control plane nodes must be Linux, but workers can be Linux or Windows.
 > * Kubernetes cluster can have a mix of Linux and Windows worker nodes, and Kubernetes is intelligent enough to
     schedule apps to the correct nodes.

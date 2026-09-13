@@ -15,3 +15,5 @@ Docker daemon runs as a process in the host OS, and uses the host OS hence makin
 ## Links
 
 * <https://docs.docker.com/get-started/overview/>
+* <https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction#background
+
